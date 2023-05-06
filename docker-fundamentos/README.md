@@ -3,7 +3,7 @@
 O projeto consiste em utilizar o Docker Compose para executar uma aplicação WEb em um Container Apache.
 
 A aplicação web é um simple relógio digital em HTML5, CSS3 e JavaScript
-O código fonte desse relógio digital foi retirado de <a href="http://https://github.com/coffeewithprogramming/Digital-Clock" target="_blank" rel="noopener noreferrer">coffeewithprogramming</a>
+O código fonte desse relógio digital foi retirado de <a href="https://github.com/coffeewithprogramming/Digital-Clock" target="_blank" rel="noopener noreferrer">coffeewithprogramming</a>
 
 ##### PASSO A PASSO DO DESAFIO:
 
