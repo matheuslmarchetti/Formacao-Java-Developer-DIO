@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório para exemplos do curso de Java Básico do Bootcamp TQI Kotlin - Backend Developer pela DIO
+Repositório para exemplos do curso de Java Básico da Formação Java Developer pela DIO
